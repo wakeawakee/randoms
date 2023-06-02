@@ -1,7 +1,9 @@
+
 // This is the simple game if you dont know about this game here are some simple rules for playing this game
 // 1.if you choose snake and computer choose gun gun kills the snake you lose and viceversa
 // 2.if you choose water and computer choose snake snake drinks the water you lose and vicecersa
 // 3.if you choose gun and computer choose water then gun drwons in the water you lose and viceversa
+// ------------------------------------------------------------------------------------------------------------
 
 #include <stdio.h>
 #include <stdlib.h>
